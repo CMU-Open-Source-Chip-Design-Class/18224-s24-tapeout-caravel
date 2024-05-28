@@ -1,0 +1,8 @@
+CARAVEL_ROOT: /afs/ece/usr/asinghan/temp/caravel_user_project-mpw-9i/caravel
+MCW_ROOT: /afs/ece/usr/asinghan/temp/caravel_user_project-mpw-9i/mgmt_core_wrapper
+PDK: sky130A
+PDK_ROOT: /ux1/users/asinghan/workspace/pdks
+USER_PROJECT_ROOT: /afs/ece.cmu.edu/usr/asinghan/temp/caravel_user_project-mpw-9i
+caravan: false
+clk: 25
+emailto: [null]
