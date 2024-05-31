@@ -21,6 +21,8 @@
 
 # default should be added according to the defaults used
 
-#-v $(USER_PROJECT_VERILOG)/gl/gpio_defaults_block_0403.v     
-#-v $(USER_PROJECT_VERILOG)/gl/gpio_defaults_block_0801.v     
-#-v $(USER_PROJECT_VERILOG)/gl/gpio_defaults_block_1803.v 
+-v $(USER_PROJECT_VERILOG)/gl/gpio_defaults_block_0402.v     
+-v $(USER_PROJECT_VERILOG)/gl/gpio_defaults_block_0403.v     
+-v $(USER_PROJECT_VERILOG)/gl/gpio_defaults_block_0801.v     
+-v $(USER_PROJECT_VERILOG)/gl/gpio_defaults_block_1803.v 
+-v $(USER_PROJECT_VERILOG)/gl/gpio_defaults_block_1808.v 
